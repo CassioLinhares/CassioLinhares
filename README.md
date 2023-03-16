@@ -11,5 +11,5 @@ I'm a web developer. I'm studying web developement at [**Rocketseat**](https://g
 #### 💬 Find me elsewhere
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cassiolinhares)](https://www.linkedin.com/in/cassiolinhares) 
-[![Gmail Badge](https://img.shields.io/badge/cassiolinhares99@gmail.com)](mailto:cassiolinhares99@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cassiolinhares99@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/cassiolinhares_/)](https://www.instagram.com/cassiolinhares_/)
