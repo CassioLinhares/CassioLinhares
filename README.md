@@ -4,7 +4,7 @@ I'm a web developer. I'm studying web developement at [**Rocketseat**](https://g
 
 #### My current tools  
 - 🌎 Front-end Web with `Javascript`, `HTML5`, `CSS3` 
-- 📡 Back-end with Nodejs
+- 📡 Back-end with `Nodejs`
 - 🎨 Layout designer with `Figma`
 - 📦️ Version code control with `Git and Github`
 
