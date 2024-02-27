@@ -3,10 +3,13 @@
 I'm a web developer. I'm studying web developement at [**Rocketseat**](https://github.com/rocketseat-education). 🚀
 
 #### My current tools  
-- 🌎 Front-end Web with `Javascript`, `HTML5`, `CSS3` 
 - 📡 Back-end with `Nodejs`
+- 🌐 API Testing with `Insomnia`
 - 🎨 Layout designer with `Figma`
+- 🛢️ Database with `SQLite`, `SQLite3`
+- 📊 Data Visualization with `Beekeeper`
 - 📦️ Version code control with `Git and Github`
+- 🌎 Front-end Web with `HTML5`, `CSS3`, `Javascript`, `Reactjs`
 
 #### 💬 Find me elsewhere
 
