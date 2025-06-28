@@ -1,12 +1,12 @@
 ### Hi, I'm Cássio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-I'm a web developer. I'm studying web developement at [**Rocketseat**](https://github.com/rocketseat-education). 🚀
+I'm a Full-Stack developer. I'm studying Systems Analysis and Development at [**FIAP**](https://www.fiap.com.br/). 🚀
 
 #### My current tools  
-- 📡 Back-end with `Nodejs`
+- 📡 Back-end with `Nodejs`, `Java`, `Python`
 - 🌐 API Testing with `Insomnia`
 - 🎨 Layout designer with `Figma`
-- 🛢️ Database with `SQLite`, `SQLite3`
+- 🛢️ Database with `SQLite`, `SQLite3`, `MySql`
 - 📊 Data Visualization with `Beekeeper`
 - 📦️ Version code control with `Git and Github`
 - 🌎 Front-end Web with `HTML5`, `CSS3`, `Javascript`, `Reactjs`
