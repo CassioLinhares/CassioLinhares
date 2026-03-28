@@ -34,8 +34,3 @@ Currently studying **Systems Analysis and Development** at [**FIAP**](https://ww
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/cassiolinhares_/)
 
 ---
-
-#### 📊 GitHub Stats
-
-![Cássio's GitHub stats](https://github-readme-stats.vercel.app/api?username=CassioLinhares&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CassioLinhares&layout=compact&theme=tokyonight&hide_border=true)
