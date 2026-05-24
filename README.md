@@ -56,10 +56,20 @@ I have a solid full-stack foundation built through the [Rocketseat Explorer](htt
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
+
+### ☕ Spring Microsserviços
+> Microservices architecture study with two business services (orders and deliveries), Netflix Eureka service discovery, Spring Cloud API Gateway and Docker Compose. Services communicate via OpenFeign and register dynamically on Eureka — accessed exclusively through the Gateway.
+
+**Stack:** Java 21 · Spring Boot · Spring Cloud Gateway · Netflix Eureka · OpenFeign · Spring Data JPA · Flyway · MySQL · Docker Compose · Maven
+
+[![Repo](https://img.shields.io/badge/Repo-github-181717?style=flat-square&logo=github)](https://github.com/CassioLinhares/spring-microsservicos)
+
+---
 
 ### 🍽️ Food Explorer — Full-Stack
 > Digital menu app for a fictional restaurant with admin and user roles, cart, favorites and filtering.
@@ -87,18 +97,6 @@ I have a solid full-stack foundation built through the [Rocketseat Explorer](htt
 **Stack:** HTML · CSS · Vanilla JS · DOM Manipulation
 
 [![Repo](https://img.shields.io/badge/Repo-github-181717?style=flat-square&logo=github)](https://github.com/CassioLinhares/Focus-Timer)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Cássio's GitHub stats](https://github-readme-stats.vercel.app/api?username=CassioLinhares&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CassioLinhares&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
